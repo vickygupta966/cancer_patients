@@ -1,4 +1,4 @@
-🧬 Cancer Patients Severity Prediction (Machine Learning Project)
+ Cancer Patients Severity Prediction (Machine Learning Project)
 📌 Project Overview
 
 This project focuses on building a Machine Learning regression model to predict the Target Severity Score of cancer patients using a global healthcare dataset.

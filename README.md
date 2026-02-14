@@ -21,7 +21,8 @@ Jupyter Notebook
 📊 Dataset Information
 
 Dataset Name: Global Cancer Patients Dataset (2015–2024)
-
+You can download dataset from here:
+https://drive.google.com/file/d/1SXYnQiConHzlDGNRau0t8m4F8UwN-SFw/view
 Includes features like:
 
 Gender

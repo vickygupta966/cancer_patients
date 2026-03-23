@@ -76,3 +76,5 @@ if st.button("Predict"):
         st.warning(f"Moderate Severity ⚠️ ({prediction:.2f})")
     else:
         st.success(f"Low Severity ✅ ({prediction:.2f})")
+
+# redeploy trigger
